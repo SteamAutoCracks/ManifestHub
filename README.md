@@ -2,7 +2,7 @@
 
 Steam Depot Manifest Cache
 
-Update time: `2025-07-24`
+Update time: `2025-09-30`
 
 ## 致倒卖者/Note for resellers
 
